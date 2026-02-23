@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj": {}
+    "C:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj": {
+    "C:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj",
+        "projectUniqueName": "C:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj",
         "projectName": "GameTools",
-        "projectPath": "c:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj",
+        "projectPath": "C:\\Dev\\Repositories\\Tool-Jam\\GameTools.csproj",
         "packagesPath": "C:\\Users\\raymo\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Repositories\\Tool-Jam\\.godot\\mono\\temp\\obj\\",
+        "outputPath": "C:\\Dev\\Repositories\\Tool-Jam\\.godot\\mono\\temp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raymo\\AppData\\Roaming\\NuGet\\NuGet.Config"
