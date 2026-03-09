@@ -1,3 +1,7 @@
 res://UI/Main/Main.tscn
 res://Main.cs
 res://Levels/LevelBase.tscn
+res://Tools/Import/Importer.cs
+res://Globals/Manager/ToolManager.cs
+res://Globals/Managers/MainManager.cs
+res://Scripts/Main.cs
