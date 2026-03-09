@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dhqeaoahk42lr"]
 
-[ext_resource type="Script" uid="uid://x8bvvhl70635" path="res://Main.cs" id="1_ggmuk"]
+[ext_resource type="Script" uid="uid://x8bvvhl70635" path="res://Scripts/Main.cs" id="1_ggmuk"]
 
 [node name="Main" type="Control" unique_id=1357949415]
 layout_mode = 3
@@ -11,7 +11,8 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_ggmuk")
 
-[node name="Container" type="Container" parent="." unique_id=474356629]
-layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=118553344]
+layout_mode = 1
+anchors_preset = 9
+anchor_bottom = 1.0
+grow_vertical = 2

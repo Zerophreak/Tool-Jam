@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1773054024
+::res://::1773057026
 icon.svg::CompressedTexture2D::6827646589729577450::1771857687::1771962877::1::::<><><>0<>0<>c95c37a0e819f2acaacae52c02570c1a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1772631770::0::1::::<><><>0<>0<><>::
 ::res://Assets/::1771962977
+::res://Editor/::1773054046
 ::res://Levels/::1772017282
 LevelBase.tscn::PackedScene::7051294325867096615::1772017282::0::1::::<><><>0<>0<><>::
 ::res://Resources/::1772013698
@@ -11,7 +12,8 @@ LevelBase.tscn::PackedScene::7051294325867096615::1772017282::0::1::::<><><>0<>0
 Test_animation.tres::Animation::7969426647350749410::1771857687::0::1::::<><><>0<>0<><>::
 ::res://Scripts/::1771857687
 ManagerTool.cs::CSharpScript::9063952838215817992::1771857687::0::1::::<><><>0<>0<><>::
+Main.cs::CSharpScript::1682567202571042490::1773057102::0::1::::<><><>0<>0<><>::
 ::res://UI/::1772013743
-::res://UI/Main/::1772013759
-Main.tscn::PackedScene::7683857604241036891::1772013759::0::1::::<><><>0<>0<><>::
+::res://UI/Main/::1773058720
+Main.tscn::PackedScene::7683857604241036891::1773058754::0::1::::<><><>0<>0<><>::uid://x8bvvhl70635::::res://Main.cs
 ::res://UI/Menu/::1772013743
