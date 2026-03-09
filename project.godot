@@ -14,6 +14,10 @@ config/name="GameTools"
 config/features=PackedStringArray("4.6", "C#", "Mobile")
 config/icon="res://icon.svg"
 
+[autoload]
+
+MainManager="*uid://dp7hv1v5powp2"
+
 [dotnet]
 
 project/assembly_name="GameTools"

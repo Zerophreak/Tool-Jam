@@ -1,4 +1,6 @@
+Sprite2D
+Parallax2D
+TileMapLayer
 HBoxContainer
 Container
-TileMapLayer
 TextureRect
