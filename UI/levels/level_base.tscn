@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://pf0picw5prmv"]
+
+[node name="LevelBase" type="Node2D" unique_id=1225260287]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1818511901]
+
+[node name="Parallax2D" type="Parallax2D" parent="." unique_id=1576493102]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1316042204]
