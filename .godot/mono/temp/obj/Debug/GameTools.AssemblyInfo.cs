@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fdfcf8d97e5199280346184d13bc5775e84dd2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186f38535b188efac3b49ea1c876ed7dba27bcc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
