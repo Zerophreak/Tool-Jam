@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://c0jfjbqqqnke3"]
+
+[node name="Levels3d" type="Node" unique_id=1280376773]
+
+[node name="GridMap" type="GridMap" parent="." unique_id=2129931872]

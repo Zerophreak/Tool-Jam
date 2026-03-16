@@ -1,6 +1,8 @@
-Sprite2D
+GridMap
+Node
 Parallax2D
 TileMapLayer
+Sprite2D
 HBoxContainer
 Container
 TextureRect
